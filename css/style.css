@@ -1,0 +1,100 @@
+/* body */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+/* header */
+.logo {
+    margin-left: 0;
+}
+header {
+    width: auto;
+    border: 2px solid black;
+    background-color: hotpink;
+    color: darkblue;
+    font-size: 30px;
+}
+/* navigation links */
+nav {
+    text-align: center;
+}
+.nav-a {
+    text-decoration: none;
+    margin:15px;
+    background-color: rgb(168, 223, 41);
+    color: rgb(243, 69, 112);
+}
+
+/* container */
+.container {
+    background-color: khaki;
+}
+
+/* section */
+ 
+.important {
+    text-align: center;
+    color: rgb(95, 17, 109);
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.section-2 img {
+    width: 474px;
+    height: 279px;;
+}
+
+
+
+/* footer */
+footer {
+    width: 100%;
+    height: auto;
+    background-color: rgb(95, 166, 199);
+    color: red;
+    display:inline-block
+}
+
+
+.ft-img {
+    width:75px;
+}
+
+
+.top-svg {
+    margin-left:600px;
+    width: 50px;
+}
+
+.name-author {
+    background-color: blue;
+    color: white;
+}
+.surname {
+    background-color: yellow;
+    color: red;
+}
+
+
+
+/* menu  page */
+.menu-page-h1  {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(rgb(21, 161, 226), green, blue);
+
+}
+.menu-photo {
+    width: 800px;
+    height: 800px;
+}
+
+/* news page */
+
+.newspage-h1 {
+    font-size: 35px;
+    background-color: rgb(21, 161, 226);
+    color: red;
+    text-align: center;
+}
